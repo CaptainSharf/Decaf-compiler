@@ -1,0 +1,34 @@
+INT var
+ID=a
+ID=b
+ID=cd
+ID=e
+SIZE=24
+INT var
+INT var
+INT var
+INT var
+ID = a
+ID = b
+ID = c
+ID = d
+NUMBER encountered= 1
+INT var
+ID = x
+NUMBER encountered= 1
+NUMBER encountered= 2
+NUMBER encountered= 3
+PLUS encountered
+NUMBER encountered= 4
+MULTIPLY encountered
+NUMBER encountered= 5
+MINUS encountered
+INT var
+INT var
+INT var
+ID = a
+ID = b
+ID = c
+ID = d
+ID = alpha
+Program Encountered

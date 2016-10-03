@@ -1,0 +1,20 @@
+class Program{
+	int a,b,cd,e[24];
+	int function1(int c,int d)
+	{
+		int a,b,c,d;
+		if(a==1)
+		{
+			int x;
+			arr[1] = 2+3*4-5;
+		}
+		function(a,b);
+		return a;
+	}
+	void function2(int c,int d)
+	{
+		int a,b,c,d,alpha;
+		function(a,b);
+		return b;
+	}
+}
